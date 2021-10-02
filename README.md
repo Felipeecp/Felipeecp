@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, i'm Luiz Felipe
 
-<!--
-**Felipeecp/Felipeecp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Data Science
+- 🤔 I'm interested in Data Science and Mobile Develpment
+- 📫 How to reach me: 
+  - Email: Felipe.engcp@gmail.com
+  - Linkedin: https://www.linkedin.com/in/felipeecp/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Felipeecp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipeecp&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeecp&layout=compact&langs_count=7&theme=calm"/>
+</div>
