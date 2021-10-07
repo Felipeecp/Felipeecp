@@ -1,4 +1,4 @@
-### Hi there, i'm Luiz Felipe
+## Hi there, i'm Luiz Felipe
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -16,13 +16,15 @@ object **LuizFelipe** {
 
 <hr>
 
-### **Languages Stats**
+## **Languages Stats**
 
 <div align="center">
   <a href="https://github.com/Felipeecp"> 
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeecp&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=vue-dark"/>
 </div>
-  
+
+ <hr>
+ 
 ## **Languages and Tools:**  
 
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
