@@ -14,15 +14,6 @@ object **LuizFelipe** {
 }
 ```
 
-<hr>
-
-## **Languages Stats**
-
-<div align="center">
-  <a href="https://github.com/Felipeecp"> 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeecp&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=vue-dark"/>
-</div>
-
  <hr>
  
 ## **Languages and Tools:**  
