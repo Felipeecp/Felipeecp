@@ -23,7 +23,7 @@ object **LuizFelipe** {
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeecp&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=vue-dark"/>
 </div>
   
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
