@@ -10,7 +10,7 @@ object **LuizFelipe** {
  val currently_studying  = "Data Science"
  val interest = "Data Science and Android Development"
  
- val languages = listOf("Python", "Java",,"Kotlin" ) 
+ val languages = listOf("Python", "Java","Kotlin" ) 
 }
 ```
 
