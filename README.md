@@ -7,10 +7,10 @@
 ```kotlin
 object **LuizFelipe** {
  val name = "Luiz Felipe Silva Santos"
- val currently_studying  = "Data Science"
- val interest = "Data Science and Android Development"
+ val currently_studying  = "Java, Spring & Machine Learning"
+ val interest = "Kotlin, Java, Spring, Mobile & Machine Learning"
  
- val languages = listOf("Python", "Java","Kotlin" ) 
+ val languages = listOf("Python", "Java", "Kotlin") 
 }
 ```
 
