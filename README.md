@@ -8,7 +8,7 @@
 object **LuizFelipe** {
  val name = "Luiz Felipe Silva Santos"
  val currently_studying  = "FullStack Development & Machine Learning"
- val interest = "FrontEnd, BackEnd with Java & Mobile"
+ val interest = "FrontEnd & BackEnd with Java"
  
  val languages = listOf("Python", "Java", "Kotlin") 
 }
