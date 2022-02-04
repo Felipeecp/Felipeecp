@@ -7,8 +7,8 @@
 ```kotlin
 object **LuizFelipe** {
  val name = "Luiz Felipe Silva Santos"
- val currently_studying  = "Java, Spring & Machine Learning"
- val interest = "Kotlin, Java, Spring, Mobile & Machine Learning"
+ val currently_studying  = "FullStack Development & Machine Learning"
+ val interest = "FrontEnd, BackEnd with Java & Mobile"
  
  val languages = listOf("Python", "Java", "Kotlin") 
 }
@@ -19,9 +19,6 @@ object **LuizFelipe** {
 ## **Languages and Tools:**  
 
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
