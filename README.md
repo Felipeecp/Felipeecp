@@ -5,10 +5,10 @@
 <img align="right" width="270" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **LuizFelipe** {
+object **User** {
  val name = "Luiz Felipe Silva Santos"
- val currently_studying  = "FullStack Development & Machine Learning"
- val interest = "FrontEnd & BackEnd with Java"
+ val currently_studying  = "Web Development & Machine Learning"
+ val interest = "FrontEnd, BackEnd with Java"
  
  val languages = listOf("Python", "Java", "Kotlin") 
 }
