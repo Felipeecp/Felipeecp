@@ -7,8 +7,8 @@
 ```kotlin
 object **User** {
  val name = "Luiz Felipe Silva Santos"
- val currently_studying  = "Web Development & Machine Learning"
- val interest = "FrontEnd, BackEnd with Java"
+ val currently_studying  = "Web/Mobile Development & Machine Learning"
+ val interest = "Android, BackEnd with Java and Kotlin"
  
  val languages = listOf("Python", "Java", "Kotlin") 
 }
